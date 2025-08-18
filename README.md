@@ -41,4 +41,3 @@ Team Members:
 <br>2410030313 - Polisetti Bharath
 <br>2410030462 - Thakkallapally Nishanth
 <br>2410030419 - Sravanam Thanveesh
-<br>2410030052 - Guddeti Chandrakanth
